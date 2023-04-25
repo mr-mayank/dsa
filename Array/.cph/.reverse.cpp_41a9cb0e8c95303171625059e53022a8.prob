@@ -1,0 +1,1 @@
+{"name":"Local: reverse","url":"m:\\Sem6\\pl\\code\\Array\\reverse.cpp","tests":[{"id":1682444695637,"input":"5\n1 2 3 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"m:\\Sem6\\pl\\code\\Array\\reverse.cpp","group":"local","local":true}
